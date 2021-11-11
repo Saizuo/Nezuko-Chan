@@ -23,6 +23,6 @@
 </ul>
 
 - [Support Server](https://discord.gg/dCKaXSZTaP)
-- [Main Source Credit To ](https://replit.com/@hotdogwastaken/GODdiscordbot)
+- [Main Source Credit ( He is the One who made it, I just edited stuff )](https://replit.com/@hotdogwastaken/GODdiscordbot)
 
 - [Fork It From Here If You use Replit](https://replit.com/@MashimasHeros/Nezuko-Chan-Source-Code?v=1)
